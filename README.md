@@ -1,4 +1,4 @@
-<h1>TODO APP</h1>
+<h1>TODO APP(the todoapp-1 folder is the todo app made using react js)</h1>
 This is a basic todo app made using Javascript,html and css
 <p>Basically this allows you to add your particular task which you want to do and also on what date, and afte the task is done you can delete the task as well.</p>
 
